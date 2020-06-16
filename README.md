@@ -15,4 +15,4 @@ growing trend is what allows us to confidently use a computational approach to p
 stock prices of the S&P 500. 
 
 #### Consult 'Stock Market Prediction.py' for the code
-#### Consult 'Explanation.pdf' for further explanation
+#### Consult 'Explanation.docx' for further explanation
