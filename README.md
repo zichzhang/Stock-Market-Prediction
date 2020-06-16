@@ -13,3 +13,6 @@ function (Harwood). Within those years, there are periods of strong economic gro
 economic crashes causing the S&P 500 to trace higher or lower, but the overall exponentially 
 growing trend is what allows us to confidently use a computational approach to predict future 
 stock prices of the S&P 500. 
+
+#### Consult Stock-Market-Prediction.py for the code
+#### Consult Explanation.txt for further explanation
